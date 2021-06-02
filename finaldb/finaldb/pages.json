@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "607c59eb8defd32568da212d"
+  },
+  "title": "Home",
+  "slug": "home",
+  "content": "<p>&nbsp;</p>\r\n\r\n<p><img alt=\"\" src=\"https://i.imgur.com/1sXuhJV.png\" style=\"height:600px; width:800px\" /></p>\r\n\r\n<p><img alt=\"\" src=\"https://imgur.com/n85dalV\" /></p>\r\n",
+  "sorting": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607c59f78defd32568da212e"
+  },
+  "title": "About Us",
+  "slug": "about-us",
+  "content": "<h1>About Us</h1>\r\n\r\n<p>If you would like to experience the best of online shopping for men, women and kids in India, you are at the right place. BuyMe is the ultimate destination for fashion and lifestyle, being host to a wide array of merchandise in&nbsp;<a href=\"https://www.myntra.com/clothing\">clothing</a>. It is time to redefine your style statement with our treasure-trove of trendy items. Our online store brings you the latest in designer products straight out of fashion houses. You can shop online at BuyMe&nbsp;from the comfort of your home and get your favourites delivered right to your doorstep.</p>\r\n\r\n<p>BuyMe is one of the unique online shopping sites in India where fashion is accessible to all. Check out our new arrivals to view the latest designer clothing in the market. You can get your hands on the trendiest style every season in western wear. You can also avail the best of ethnic fashion during all Indian festive occasions. You are sure to be impressed with our seasonal discounts. The end-of-season sale is the ultimate experience when fashion gets unbelievably affordable.</p>\r\n",
+  "sorting": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607c5a058defd32568da212f"
+  },
+  "title": "Contact Us",
+  "slug": "contact-us",
+  "content": "<h1>Contact Us</h1>\r\n\r\n<h2>GET IN TOUCH</h2>\r\n\r\n<h3>We would love to hear from you.</h3>\r\n\r\n<p><strong>CALL</strong>:+91-124-6770000</p>\r\n\r\n<p><strong>EMAIL</strong>:care@buyme.com</p>\r\n\r\n<p><strong>VISIT</strong>:</p>\r\n\r\n<p>BuyMe Marketing<br />\r\nConsulting Pvt. Ltd<br />\r\n3rd Floor, 77 A<br />\r\nSector-18, ISRO&nbsp;Road,<br />\r\nAhmedabad - 380015</p>\r\n",
+  "sorting": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6097901a7856081c5caff08f"
+  },
+  "title": "Services",
+  "slug": "services",
+  "content": "<p>These are services</p>\r\n",
+  "sorting": 100,
+  "__v": 0
+}]

@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "60918b077ee83b23ecad1be3"
+  },
+  "name": "Twesha Satia",
+  "email": "tweshasatia@gmail.com",
+  "username": "Twesha",
+  "password": "$2a$10$IO5B5KK6eXHYvPl8kkywHuNjeA4kqRocO7gnz8oyu.c6AwON9Tlra",
+  "admin": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609424767e4cfc0de00cb1a2"
+  },
+  "name": "Vruddhi",
+  "email": "sanghv@mail.com",
+  "username": "Vru",
+  "password": "$2a$10$3xm2FgqmfeGPVX5EDPogVuavKCZhqkeDaI385ZbELpUPBTYs6HWI.",
+  "admin": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609587220303a01458959210"
+  },
+  "name": "Rutvi",
+  "email": "rut@mail.com",
+  "username": "Rutvi",
+  "password": "$2a$10$ULXykW5zO8GkTR2KLKs62.NQbGikUAS9nVd9E3NLJrWjWeoNSAkpa",
+  "admin": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60966fc3b6a3a60d4c54a665"
+  },
+  "name": "vruddhi Sanghvi",
+  "email": "sanghvivruddhi@gmail.com",
+  "username": "vruddhi",
+  "password": "$2a$10$k0usJg2gimNRGSP6T3bhweBiREK198p.ZWvftCj3Uz2c2P1r4yiWm",
+  "admin": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609791157856081c5caff090"
+  },
+  "name": "Rutvi",
+  "email": "rutmahee2015@gmail.com",
+  "username": "rutvi",
+  "password": "$2a$10$fMsF7Hc1H6GPZr98f70V6OwaEiRZhD/5Oi.SeXRcBWfBwUT4m5tvS",
+  "admin": 0,
+  "__v": 0
+}]

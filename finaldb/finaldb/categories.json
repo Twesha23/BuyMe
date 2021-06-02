@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "609586878ac2183f7cf0f23f"
+  },
+  "title": "Dresses",
+  "slug": "dresses",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609586a68ac2183f7cf0f240"
+  },
+  "title": "Jumpsuits",
+  "slug": "jumpsuits",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609586ba8ac2183f7cf0f241"
+  },
+  "title": "Tops",
+  "slug": "tops",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609586bf8ac2183f7cf0f242"
+  },
+  "title": "Jeans",
+  "slug": "jeans",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609586e18ac2183f7cf0f243"
+  },
+  "title": "Sweaters",
+  "slug": "sweaters",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609586e68ac2183f7cf0f244"
+  },
+  "title": "Jackets",
+  "slug": "jackets",
+  "__v": 0
+}]

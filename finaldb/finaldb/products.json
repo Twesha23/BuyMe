@@ -1,0 +1,199 @@
+[{
+  "_id": {
+    "$oid": "60963c5368c5253378425ab8"
+  },
+  "title": "RARE",
+  "slug": "rare",
+  "desc": "Women Green Printed Fit and Flare Dress",
+  "price": 899,
+  "category": "dresses",
+  "image": "green2.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60966030f357271f485d62b7"
+  },
+  "title": "Nayo",
+  "slug": "nayo",
+  "desc": "Women Black & Off-White Printed A-Line Dress",
+  "price": 959,
+  "category": "dresses",
+  "image": "black.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609660f8f357271f485d62b8"
+  },
+  "title": "SASSAFRAS",
+  "slug": "sassafras",
+  "desc": "Black Solid Basic Jumpsuit",
+  "price": 584,
+  "category": "jumpsuits",
+  "image": "black.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6096613df357271f485d62b9"
+  },
+  "title": "DressBerry",
+  "slug": "dressberry",
+  "desc": "Women Maroon & White Striped Basic Cropped Jumpsuit & Belt",
+  "price": 1310,
+  "category": "jumpsuits",
+  "image": "red.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609661d5f357271f485d62ba"
+  },
+  "title": "Cottinfab",
+  "slug": "cottinfab",
+  "desc": "Women Black & White Printed Basic Jumpsuit",
+  "price": 1100,
+  "category": "jumpsuits",
+  "image": "printed1.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609662b3f357271f485d62bb"
+  },
+  "title": "Pannkh",
+  "slug": "pannkh",
+  "desc": "Women White Solid Peplum Top",
+  "price": 524,
+  "category": "tops",
+  "image": "white1.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60966316f357271f485d62bc"
+  },
+  "title": "STREET 9",
+  "slug": "street-9",
+  "desc": "Women Red Printed Cinched Waist Top",
+  "price": 584,
+  "category": "tops",
+  "image": "red1.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60966397f357271f485d62bd"
+  },
+  "title": "KASSUALLY",
+  "slug": "kassually",
+  "desc": "Women Yellow & White Floral Print Peplum Top",
+  "price": 750,
+  "category": "tops",
+  "image": "yellow1.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60966422f357271f485d62be"
+  },
+  "title": "all about you",
+  "slug": "all-about-you",
+  "desc": "Women Blue Straight Fit High-Rise Clean Look Stretchable Jeans",
+  "price": 1044,
+  "category": "jeans",
+  "image": "jeans1.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6096656bf357271f485d62bf"
+  },
+  "title": "Levis",
+  "slug": "levis",
+  "desc": "Men Navy Blue Skinny Fit  Stretchable Jeans",
+  "price": 1749,
+  "category": "jeans",
+  "image": "menjeans1.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609665f2f357271f485d62c0"
+  },
+  "title": "WROGN",
+  "slug": "wrogn",
+  "desc": "Men Blue Slim Fit Mid-Rise Mildly Distressed Stretchable Jeans",
+  "price": 1300,
+  "category": "jeans",
+  "image": "menjeans2a.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6096668cf357271f485d62c1"
+  },
+  "title": "Nautica",
+  "slug": "nautica",
+  "desc": "Men Black Solid Pullover Sweater",
+  "price": 2700,
+  "category": "sweaters",
+  "image": "mensewater1b.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609666ddf357271f485d62c2"
+  },
+  "title": "Tokyo",
+  "slug": "tokyo",
+  "desc": "Women Mustard & Black Solid Hooded Sweatshirt\r\n",
+  "price": 600,
+  "category": "sweaters",
+  "image": "womensweater1a",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609667baf357271f485d62c3"
+  },
+  "title": "Athena",
+  "slug": "athena",
+  "desc": "Women White Solid Sweatshirt",
+  "price": 899,
+  "category": "sweaters",
+  "image": "womensweater2a.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60966830f357271f485d62c4"
+  },
+  "title": "RARE RABBIT",
+  "slug": "rare-rabbit",
+  "desc": "Men Black Leather Jacket",
+  "price": 2100,
+  "category": "jackets",
+  "image": "menjack1a.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609668b9f357271f485d62c5"
+  },
+  "title": "GANT",
+  "slug": "gant",
+  "desc": "Men Navy Blue Solid Bomber Jacket",
+  "price": 1600,
+  "category": "jackets",
+  "image": "menjacket2a.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6096691df357271f485d62c6"
+  },
+  "title": "Roadster",
+  "slug": "roadster",
+  "desc": "Women Charcoal Grey Solid Denim Jacket",
+  "price": 1200,
+  "category": "jackets",
+  "image": "womenjacket1.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6096ca775a0f5a3368b0d0a5"
+  },
+  "title": "RareJumpsuits",
+  "slug": "rarejumpsuits",
+  "desc": "Rare piece of jumpsuit",
+  "price": 899,
+  "category": "dresses",
+  "image": "red.jpg",
+  "__v": 0
+}]
